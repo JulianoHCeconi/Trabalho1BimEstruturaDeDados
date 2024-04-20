@@ -1,0 +1,16 @@
+# Trabalho1BimEstruturaDeDados
+NOME: Juliano Hermes Ceconi
+RA: 248701-1
+
+RELATÓRIO SOBRE O TRABALHO
+
+Começamos o programa imprimindo uma mensagem utilizando JOptionPane com uma breve descrição do que se deve fazer.
+Após dar um "OK" nessa mensagem, o primeiro "input" aparece, solicitando que o usuário informe o tamanho do vetor que deseja montar, após colocar o tamanho é só dar um "OK".
+Na proxima tela após o "OK", é exibida uma tela onde pede ao usuário informar os valores para cada posição do vetor.
+Após o usuário informar todos os valores para cada posição uma nova tela aparece com 4 opções: Ordenar pelo metodo de inserção, seleção ou bolha, e também a opção de sair do programa.
+Caso o usuário selecionar qualquer um dos metodos de ordenação, uma nova mensagem sera exibida mostrando o vetor original que foi informado pelo usuário no começo, o vetor ordenado e também o tempo de execução do programa.
+Caso selecione a opção sair, o programa se encerra.
+O código foi feito com base no parametro JOPtionPane, que faz com que o programa fique mais interativo
+Foi usado também uma função para cada método, inclusive para mostrar o resultado.
+Também foi utilizado o parametro "long startTime" e "long endTime" para podermos calcular o tempo de execução das funções.
+O metodo StringBuilder também foi usado para imprimir os resultados.
